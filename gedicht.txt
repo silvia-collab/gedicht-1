@@ -4,3 +4,8 @@ Farbpalette
 Rot
 Grün
 Blau
+Hellblau
+Magenta
+Gelb
+
+Sind alles tolle Farben!
