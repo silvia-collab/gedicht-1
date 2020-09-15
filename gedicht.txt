@@ -4,6 +4,8 @@ Farbpalette
 Rot
 Grün
 Blau
+Hellblau
+Dunkelblau
 Magenta
 Gelb
 
